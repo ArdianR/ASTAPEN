@@ -1,0 +1,188 @@
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe.config
+C:\Users\Rudi Tawangga\Documents\Visual Studio 2012\Projects\ASTAPEN\ASTAPEN\bin\Debug\kependudukan.mdf
+C:\Users\Rudi Tawangga\Documents\Visual Studio 2012\Projects\ASTAPEN\ASTAPEN\bin\Debug\kependudukan_log.ldf
+C:\Users\Rudi Tawangga\Documents\Visual Studio 2012\Projects\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe
+C:\Users\Rudi Tawangga\Documents\Visual Studio 2012\Projects\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.pdb
+C:\Users\Rudi Tawangga\Documents\Visual Studio 2012\Projects\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csprojResolveAssemblyReference.cache
+C:\Users\Rudi Tawangga\Documents\Visual Studio 2012\Projects\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.LoginForm.resources
+C:\Users\Rudi Tawangga\Documents\Visual Studio 2012\Projects\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Properties.Resources.resources
+C:\Users\Rudi Tawangga\Documents\Visual Studio 2012\Projects\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csproj.GenerateResource.Cache
+C:\Users\Rudi Tawangga\Documents\Visual Studio 2012\Projects\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.exe
+C:\Users\Rudi Tawangga\Documents\Visual Studio 2012\Projects\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.pdb
+C:\Users\Rudi Tawangga\Documents\Visual Studio 2012\Projects\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.menuutama.resources
+C:\Users\Rudi Tawangga\documents\visual studio 2012\Projects\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kelahiran.resources
+C:\Users\Rudi Tawangga\documents\visual studio 2012\Projects\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kematian.resources
+C:\Users\Rudi Tawangga\documents\visual studio 2012\Projects\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kepala_keluarga.resources
+C:\Users\Rudi Tawangga\documents\visual studio 2012\Projects\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.olah_penduduk.resources
+C:\Users\Rudi Tawangga\documents\visual studio 2012\Projects\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Pelapor.resources
+C:\Users\Rudi Tawangga\documents\visual studio 2012\Projects\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.User.resources
+C:\Users\Rudi Tawangga\documents\visual studio 2012\Projects\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Laporan.resources
+D:\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe.config
+D:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.exe
+D:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.pdb
+D:\ASTAPEN\ASTAPEN\bin\Debug\kependudukan.mdf
+D:\ASTAPEN\ASTAPEN\bin\Debug\kependudukan_log.ldf
+D:\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe
+D:\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.pdb
+D:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.LoginForm.resources
+D:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Laporan.resources
+D:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.menuutama.resources
+D:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kelahiran.resources
+D:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kematian.resources
+D:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kepala_keluarga.resources
+D:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.olah_penduduk.resources
+D:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Pelapor.resources
+D:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.User.resources
+D:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Properties.Resources.resources
+D:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csproj.GenerateResource.Cache
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe.config
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.exe
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.pdb
+F:\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe.config
+F:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.exe
+F:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.pdb
+F:\ASTAPEN\ASTAPEN\bin\Debug\kependudukan.mdf
+F:\ASTAPEN\ASTAPEN\bin\Debug\kependudukan_log.ldf
+F:\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe
+F:\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.pdb
+F:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csprojResolveAssemblyReference.cache
+F:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.LoginForm.resources
+F:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Laporan.resources
+F:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.menuutama.resources
+F:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kelahiran.resources
+F:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kematian.resources
+F:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kepala_keluarga.resources
+F:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.olah_penduduk.resources
+F:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Pelapor.resources
+F:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.User.resources
+F:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Properties.Resources.resources
+F:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csproj.GenerateResource.Cache
+G:\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe.config
+G:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.exe
+G:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.pdb
+G:\ASTAPEN\ASTAPEN\bin\Debug\kependudukan.mdf
+G:\ASTAPEN\ASTAPEN\bin\Debug\kependudukan_log.ldf
+G:\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe
+G:\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.pdb
+G:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csprojResolveAssemblyReference.cache
+G:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.LoginForm.resources
+G:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Laporan.resources
+G:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.menuutama.resources
+G:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kelahiran.resources
+G:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kematian.resources
+G:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kepala_keluarga.resources
+G:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.olah_penduduk.resources
+G:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Pelapor.resources
+G:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.User.resources
+G:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Properties.Resources.resources
+G:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csproj.GenerateResource.Cache
+D:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csprojResolveAssemblyReference.cache
+D:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csproj.ResolveComReference.cache
+E:\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe.config
+E:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csproj.ResolveComReference.cache
+E:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.exe
+E:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.pdb
+E:\ASTAPEN\ASTAPEN\bin\Debug\kependudukan.mdf
+E:\ASTAPEN\ASTAPEN\bin\Debug\kependudukan_log.ldf
+E:\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe
+E:\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.pdb
+E:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csprojResolveAssemblyReference.cache
+E:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.LoginForm.resources
+E:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Laporan.resources
+E:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.menuutama.resources
+E:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kelahiran.resources
+E:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kematian.resources
+E:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kepala_keluarga.resources
+E:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.olah_penduduk.resources
+E:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Pelapor.resources
+E:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.User.resources
+E:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Properties.Resources.resources
+E:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csproj.GenerateResource.Cache
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe.config
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csproj.ResolveComReference.cache
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.exe
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.pdb
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\bin\Debug\kependudukan.mdf
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\bin\Debug\kependudukan_log.ldf
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.pdb
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csprojResolveAssemblyReference.cache
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.LoginForm.resources
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Laporan.resources
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.menuutama.resources
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kelahiran.resources
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kematian.resources
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kepala_keluarga.resources
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.olah_penduduk.resources
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Pelapor.resources
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.User.resources
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Properties.Resources.resources
+C:\Users\Rudi Tawangga\Desktop\backup\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csproj.GenerateResource.Cache
+E:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.penyuratan.resources
+E:\ASTAPEN\ASTAPEN\obj\Debug\Interop.VBIDE.dll
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\Interop.VBIDE.dll
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csproj.ResolveComReference.cache
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csprojResolveAssemblyReference.cache
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.LoginForm.resources
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Laporan.resources
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.menuutama.resources
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kelahiran.resources
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kematian.resources
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kepala_keluarga.resources
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.olah_penduduk.resources
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Pelapor.resources
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.User.resources
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.penyuratan.resources
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Properties.Resources.resources
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csproj.GenerateResource.Cache
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\bin\Debug\kependudukan.mdf
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\bin\Debug\kependudukan_log.ldf
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe
+C:\Users\Jajal-PC\Documents\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.pdb
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe.config
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\obj\Debug\Interop.VBIDE.dll
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csproj.ResolveComReference.cache
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.exe
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.pdb
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csprojResolveAssemblyReference.cache
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.LoginForm.resources
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Laporan.resources
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.menuutama.resources
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kelahiran.resources
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kematian.resources
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kepala_keluarga.resources
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.olah_penduduk.resources
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Pelapor.resources
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.User.resources
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.penyuratan.resources
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Properties.Resources.resources
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csproj.GenerateResource.Cache
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\bin\Debug\kependudukan.mdf
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\bin\Debug\kependudukan_log.ldf
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe
+E:\ASTAPEN 4\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.pdb
+E:\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.tentangKami.resources
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe.config
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\Interop.VBIDE.dll
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csproj.ResolveComReference.cache
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.exe
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.pdb
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\bin\Debug\kependudukan.mdf
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\bin\Debug\kependudukan_log.ldf
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.exe
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\bin\Debug\ASTAPEN.pdb
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csprojResolveAssemblyReference.cache
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.LoginForm.resources
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Laporan.resources
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.menuutama.resources
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kelahiran.resources
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kematian.resources
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Kepala_keluarga.resources
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.olah_penduduk.resources
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.Pelapor.resources
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.olahdata.User.resources
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.penyuratan.resources
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.Properties.Resources.resources
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.tentangKami.resources
+C:\Users\Rudi Tawangga\Desktop\ASTAPEN\ASTAPEN\obj\Debug\ASTAPEN.csproj.GenerateResource.Cache
